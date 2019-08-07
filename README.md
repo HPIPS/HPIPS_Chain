@@ -7,7 +7,7 @@ A new POS+IPFS Chain node, ready for hacking.
 Install Rust:
 
 ```bash
-curl https://sh.rustup.rs -sSf | sh
+curl https://getsubstrate.io -sSf | bash -s -- --fast
 ```
 
 Install required tools:
