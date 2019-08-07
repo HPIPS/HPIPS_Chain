@@ -1,6 +1,6 @@
 # hpips
 
-A new SRML-based Substrate node, ready for hacking.
+A new POS+IPFS Chain node, ready for hacking.
 
 # Building
 
