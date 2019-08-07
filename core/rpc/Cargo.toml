@@ -1,0 +1,35 @@
+[package]
+name = "substrate-rpc"
+version = "2.0.0"
+authors = ["Parity Technologies <admin@parity.io>"]
+edition = "2018"
+
+[dependencies]
+derive_more = "0.14.0"
+futures = "0.1"
+futures03 = { package = "futures-preview", version = "0.3.0-alpha.17", features = ["compat"] }
+jsonrpc-core = "12.0.0"
+jsonrpc-core-client = "12.0.0"
+jsonrpc-pubsub = "12.0.0"
+jsonrpc-derive = "12.0.0"
+log = "0.4"
+parking_lot = "0.8.0"
+codec = { package = "parity-scale-codec", version = "1.0.0" }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+client = { package = "substrate-client", path = "../client" }
+substrate-executor = { path = "../executor" }
+network = { package = "substrate-network", path = "../network" }
+primitives = { package = "substrate-primitives", path = "../primitives" }
+state_machine = { package = "substrate-state-machine", path = "../state-machine" }
+transaction_pool = { package = "substrate-transaction-pool", path = "../transaction-pool" }
+sr-primitives = {  path = "../sr-primitives" }
+runtime_version = { package = "sr-version", path = "../sr-version" }
+
+[dev-dependencies]
+assert_matches = "1.1"
+futures = "0.1.17"
+sr-io = { path = "../sr-io" }
+test-client = { package = "substrate-test-runtime-client", path = "../test-runtime/client" }
+rustc-hex = "2.0"
+tokio = "0.1.17"

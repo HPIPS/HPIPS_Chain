@@ -1,0 +1,1 @@
+/home/hpips/substrate-package/hpips/runtime/wasm/target/wasm32-unknown-unknown/release/hpips_runtime_wasm.wasm: /home/hpips/substrate-package/hpips/runtime/src/lib.rs /home/hpips/substrate-package/hpips/runtime/src/template.rs /home/hpips/substrate-package/hpips/runtime/wasm/src/lib.rs /home/hpips/substrate-package/substrate-module-template/src/lib.rs

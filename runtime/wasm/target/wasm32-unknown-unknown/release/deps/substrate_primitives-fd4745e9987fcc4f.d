@@ -1,0 +1,18 @@
+/home/hpips/substrate-package/hpips/runtime/wasm/target/wasm32-unknown-unknown/release/deps/substrate_primitives-fd4745e9987fcc4f.rmeta: /home/hpips/substrate-package/hpips/core/primitives/src/lib.rs /home/hpips/substrate-package/hpips/core/primitives/src/crypto.rs /home/hpips/substrate-package/hpips/core/primitives/src/u32_trait.rs /home/hpips/substrate-package/hpips/core/primitives/src/ed25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/sr25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/hash.rs /home/hpips/substrate-package/hpips/core/primitives/src/hasher.rs /home/hpips/substrate-package/hpips/core/primitives/src/offchain.rs /home/hpips/substrate-package/hpips/core/primitives/src/sandbox.rs /home/hpips/substrate-package/hpips/core/primitives/src/storage.rs /home/hpips/substrate-package/hpips/core/primitives/src/uint.rs /home/hpips/substrate-package/hpips/core/primitives/src/changes_trie.rs
+
+/home/hpips/substrate-package/hpips/runtime/wasm/target/wasm32-unknown-unknown/release/deps/libsubstrate_primitives-fd4745e9987fcc4f.rlib: /home/hpips/substrate-package/hpips/core/primitives/src/lib.rs /home/hpips/substrate-package/hpips/core/primitives/src/crypto.rs /home/hpips/substrate-package/hpips/core/primitives/src/u32_trait.rs /home/hpips/substrate-package/hpips/core/primitives/src/ed25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/sr25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/hash.rs /home/hpips/substrate-package/hpips/core/primitives/src/hasher.rs /home/hpips/substrate-package/hpips/core/primitives/src/offchain.rs /home/hpips/substrate-package/hpips/core/primitives/src/sandbox.rs /home/hpips/substrate-package/hpips/core/primitives/src/storage.rs /home/hpips/substrate-package/hpips/core/primitives/src/uint.rs /home/hpips/substrate-package/hpips/core/primitives/src/changes_trie.rs
+
+/home/hpips/substrate-package/hpips/runtime/wasm/target/wasm32-unknown-unknown/release/deps/substrate_primitives-fd4745e9987fcc4f.d: /home/hpips/substrate-package/hpips/core/primitives/src/lib.rs /home/hpips/substrate-package/hpips/core/primitives/src/crypto.rs /home/hpips/substrate-package/hpips/core/primitives/src/u32_trait.rs /home/hpips/substrate-package/hpips/core/primitives/src/ed25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/sr25519.rs /home/hpips/substrate-package/hpips/core/primitives/src/hash.rs /home/hpips/substrate-package/hpips/core/primitives/src/hasher.rs /home/hpips/substrate-package/hpips/core/primitives/src/offchain.rs /home/hpips/substrate-package/hpips/core/primitives/src/sandbox.rs /home/hpips/substrate-package/hpips/core/primitives/src/storage.rs /home/hpips/substrate-package/hpips/core/primitives/src/uint.rs /home/hpips/substrate-package/hpips/core/primitives/src/changes_trie.rs
+
+/home/hpips/substrate-package/hpips/core/primitives/src/lib.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/crypto.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/u32_trait.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/ed25519.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/sr25519.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/hash.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/hasher.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/offchain.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/sandbox.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/storage.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/uint.rs:
+/home/hpips/substrate-package/hpips/core/primitives/src/changes_trie.rs:

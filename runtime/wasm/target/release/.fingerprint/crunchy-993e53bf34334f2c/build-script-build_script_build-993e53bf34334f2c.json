@@ -1,0 +1,1 @@
+{"rustc":5709492532135973310,"features":"[\"default\", \"limit_128\"]","target":10088282520713642473,"profile":1405300175956473297,"path":4800681784351896871,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/crunchy-993e53bf34334f2c/dep-build-script-build_script_build-993e53bf34334f2c"}}],"rustflags":[],"metadata":5553159513701433177}
